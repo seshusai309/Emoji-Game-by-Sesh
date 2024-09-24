@@ -1,0 +1,31 @@
+/* Write your code here. */
+* {
+  font-family: Roboto;
+  font-weight: 800;
+  cursor: pointe;
+  outline: none;
+}
+
+.emojis-Container {
+  background: linear-gradient(90deg, #9796f0, #c99cee, #e6a9e4);
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emojis-sub-Container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  width: 900px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.seshGame {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

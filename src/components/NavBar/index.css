@@ -1,0 +1,34 @@
+/* Write your code here. */
+.navbar {
+  background: linear-gradient(
+    90deg,
+    #9796f0,
+    #c99cee,
+    #e6a9e4,
+    #f7bcd8,
+    #ffc4ae
+  );
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score-head2 {
+  margin-left: 50px;
+}
+
+.logoEmojiImg {
+  margin-right: 3px;
+}
